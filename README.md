@@ -105,5 +105,3 @@ If you have any questions or want to contribute, feel free to open an issue or s
 
 ---
 
-**Author:** Ramreddy Arolla  
-**Contact:** rarolla@asu.edu  
